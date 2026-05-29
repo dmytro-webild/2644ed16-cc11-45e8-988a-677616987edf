@@ -78,7 +78,7 @@ export default function LandingPage() {
           href: "tel:562-588-8422",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/children-collects-garbage-garbage-bags-park_1157-26987.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/children-collects-garbage-garbage-bags-park_1157-26987.jpg?_wi=1"
       imageAlt="Animated water splash cleaning a trash bin"
       avatars={[
         {
@@ -183,7 +183,7 @@ export default function LandingPage() {
               imageAlt: "Clean bin interior after scrubbing",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/children-collects-garbage-garbage-bags-park_1157-26987.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/children-collects-garbage-garbage-bags-park_1157-26987.jpg?_wi=2",
           imageAlt: "deep scrubbing trash bin interior close up",
         },
         {
